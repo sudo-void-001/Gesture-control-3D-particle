@@ -2,10 +2,6 @@
 
 A real-time interactive visualization that combines MediaPipe Hand Tracking with Three.js to create an AI-powered particle experience controlled entirely by hand gestures.
 
-"Status" (https://img.shields.io/badge/Status-Experimental-success)
-"JavaScript" (https://img.shields.io/badge/JavaScript-ES6-yellow)
-"Three.js" (https://img.shields.io/badge/Three.js-WebGL-blue)
-"MediaPipe" (https://img.shields.io/badge/MediaPipe-AI-orange)
 
 🚀 Overview
 
