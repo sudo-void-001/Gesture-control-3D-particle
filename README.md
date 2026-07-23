@@ -3,7 +3,7 @@
 A real-time interactive visualization that combines MediaPipe Hand Tracking with Three.js to create an AI-powered particle experience controlled entirely by hand gestures.
 
 
-🚀 Overview
+🚀 Overview:
 
 This project explores the intersection of Computer Vision, Artificial Intelligence, and 3D Graphics Rendering.
 
