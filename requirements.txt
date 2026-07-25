@@ -1,0 +1,4 @@
+# No Python dependencies.
+# This project uses CDN-hosted JavaScript libraries:
+# - Three.js v0.160.0
+# - @mediapipe/tasks-vision v0.10.9
