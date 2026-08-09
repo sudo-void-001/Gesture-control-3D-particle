@@ -9,7 +9,7 @@ This project explores the intersection of Computer Vision, Artificial Intelligen
 
 Using your webcam, the application detects hand landmarks in real time using Google MediaPipe Tasks Vision and maps those movements to a dynamic Three.js particle system, creating an interactive AI-driven visual experience.
 
-When a hand is detected:
+When a hand is detected: 
 
 - ✋ Particle system follows hand movement
 - 🟢 Particle color changes dynamically
