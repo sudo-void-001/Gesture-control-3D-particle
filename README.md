@@ -18,7 +18,7 @@ When a hand is detected:
 
 ---
 
-✨ Features
+✨ Features 
 
 - 🎯 Real-time hand tracking using MediaPipe
 - 🌐 Browser-based AI inference
