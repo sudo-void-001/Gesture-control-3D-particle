@@ -1,4 +1,4 @@
-✋ AI Hand Tracking Particle Visualizer
+✋ AI Hand Tracking Particle Visualizer 
 
 A real-time interactive visualization that combines MediaPipe Hand Tracking with Three.js to create an AI-powered particle experience controlled entirely by hand gestures.
 
